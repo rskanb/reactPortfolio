@@ -33,7 +33,7 @@ class App extends React.Component {
           <Card 
           name={friend.name}
           id={friend.id}
-          image={friend.image}
+          image={process.env.PUBLIC_URL+friend.image}
           description={friend.description}
           techUsed={friend.techUsed}
           link={friend.link}
