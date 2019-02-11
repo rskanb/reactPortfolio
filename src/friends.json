@@ -4,7 +4,7 @@
       "name": "Crest --Market Trending Platform",
       "description": "Crest is a mock stock trading platform that enables users to purchase and trade imaginary shares of real stocks in real time. Its purpose is to allow the user to practice stock trading strategies without putting up real money. Upon creating an account, the user will be given a budget of $20,000, and will be asked to build a portfolio by searching and purchasing stocks at their real-time market prices. Crest will chart their portfolio performance over time and let the user see how their trades would have done in a real market.",
       "techUsed": "NodeJs, ExpressJs, ReactJs, FusionCharts, Sequelize, Material Desing Bootstrap, PassportJs, Axios",
-      "image": "/assets/crest.png",
+      "image": "https://i.ibb.co/0MQstVb/crest.png",
       "link": "https://github.com/sgenini/Crest"
     },
     {
@@ -12,7 +12,7 @@
       "name": "Democratreats --Polling Application",
       "description":"Democratreats is a polling web app designed to help offices make decisions, whether it's a global change or a simple snack suggestion. This allows office administrators to create polls that employees can vote on, and gives everyone a platform to drop a suggestion.",
       "techUsed":"NodeJs, ExpressJs, HandlebarsJs, Sequelize, Bootstrap, PassportJs",
-      "image": "/assets/democratreats.png",
+      "image": "https://i.ibb.co/7W2b8sc/democratreats.png",
       "link": "https://github.com/rskanb/democratreats"
     },
     {
@@ -20,7 +20,7 @@
       "name": "WeatherDream",
       "description":"This application highlights the users' current weather forecast (based on browser location) while simultaneously showcasing their dream destination forecast as well as the daily report of the users' home city tempurature. Also, slide show best places pictures based on Home City/Location and Dream Destination provided according to user input.",
       "techUsed":"JavaScript, APIs, Bootstrap, ChartJs, MomentJs ",
-      "image": "/assets/weather.png",
+      "image": "https://i.ibb.co/6vzXRzW/weather.png",
       "link": "https://github.com/rskanb/WeatherDream"
     },
     {
@@ -28,7 +28,7 @@
       "name": "MongoScrapper",
       "description":"Scrap News From Website and update it to MongoDB. Clicking 'Home' or 'Scrap New Article' will fetch New York Times article using Node JS Axios & Cheerios package and store to Mongodb, then display 10 article if article have description using handlebars. User can save individual article as well for future reference.",
       "techUsed":"JavaScript, Handlebars, NodeJs, MongoDb-Mongoose, Bootstrap, Axios, Cheerio ",
-      "image": "/assets/MongoScrapper.png",
+      "image": "https://i.ibb.co/nnC2h5v/Mongo-Scrapper.png",
       "link": "https://github.com/rskanb/mongoScraper"
     },
     {
@@ -36,7 +36,7 @@
       "name": "NYTGoogleBooksSearch",
       "description":"Initially User will provide input as book name or any topic/author name. Axios will fetch Google book API and React JS render all to front end. Front End side user can view Book Cover Page/Book Title/Book Author/Description and Link to page where user can buy book or see the price. Anyone need this code!!! Just need Google Book API Key inorder to use this. Update in client/src/utils/API.js",
       "techUsed":"JavaScript, ReactJs, NodeJs, Axios, MongoDB, Bootstrap, GoogleBookAPI ",
-      "image": "/assets/nytGoogleBooksSearch.png",
+      "image": "https://i.ibb.co/QJ7K1Nm/nyt-Google-Books-Search.png",
       "link": "https://github.com/rskanb/NYTGoogleBooksSearch"
     },
     {
@@ -44,7 +44,7 @@
       "name": "clickyReact",
       "description":"React Js based game where user can start clicking on any image and score will be updated until user click on same image twice (reset score back to 0) Also, each time user click, all images will be shuffled and rendered to React-DOM.",
       "techUsed":"JavaScript, ReactJs, Bootstrap ",
-      "image": "/assets/clicky.png",
+      "image": "https://i.ibb.co/bbdMPC0/clicky.png",
       "link": "https://github.com/rskanb/clickyReact"
     }
   ]

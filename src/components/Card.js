@@ -7,7 +7,7 @@ function Card(props) {
   <div className="card" style={{marginTop:10}} id={props.id}>
     <div className="row">
       <div className="col-md-3">
-      <img style={{height:200, width:270}} className="img-container" alt={props.name} src={process.env.PUBLIC_URL+props.image} id={props.id}></img>
+      <img style={{height:200, width:270}} className="img-container" alt={props.name} src={props.image} id={props.id}></img>
       </div>
       <div className="col-md-9">
       <h2>{props.name}</h2>
