@@ -38,3 +38,16 @@
 .footer a {
   color: white;
 }
+
+
+@media screen and (max-width:920px){
+  .header {
+    margin-top:100px;
+  }
+}
+
+@media screen and (max-width:420px){
+  .header {
+    margin-top:200px;
+  }
+}
