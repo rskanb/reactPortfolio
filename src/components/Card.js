@@ -12,7 +12,8 @@ function Card(props) {
       <div className="col-md-9">
       <h2>{props.name}</h2>
       <p>{props.description}</p>
-      <p>{props.techUsed}&nbsp;<a href={props.link}>Read More...</a></p>
+      <p>{props.techUsed}</p>
+      <button style={{marginBottom: 5}} className="btn btn-secondary"><a href={props.link}><strong style={{color:'white'}}>GitHub Link</strong></a></button>
       </div>
     </div>
   </div>

@@ -1,3 +1,7 @@
+body{
+  padding-top:40px;
+}
+
 .header {
   margin-top:10px;
   background: #5d5f5f;
@@ -40,7 +44,7 @@
 }
 
 
-@media screen and (max-width:920px){
+/* @media screen and (max-width:720px){
   .header {
     margin-top:100px;
   }
@@ -50,4 +54,4 @@
   .header {
     margin-top:200px;
   }
-}
+} */

@@ -5,7 +5,7 @@
       "description": "Crest is a mock stock trading platform that enables users to purchase and trade imaginary shares of real stocks in real time. Its purpose is to allow the user to practice stock trading strategies without putting up real money. Upon creating an account, the user will be given a budget of $20,000, and will be asked to build a portfolio by searching and purchasing stocks at their real-time market prices. Crest will chart their portfolio performance over time and let the user see how their trades would have done in a real market.",
       "techUsed": "NodeJs, ExpressJs, ReactJs, FusionCharts, Sequelize, Material Desing Bootstrap, PassportJs, Axios",
       "image": "https://i.ibb.co/0MQstVb/crest.png",
-      "link": "https://github.com/sgenini/Crest"
+      "link": "https://github.com/rskanb/Crest"
     },
     {
       "id": 2,
